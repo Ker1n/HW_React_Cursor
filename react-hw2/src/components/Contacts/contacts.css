@@ -1,0 +1,41 @@
+.Contacts-book { 
+    height: auto;
+    width: 400px;
+    border: black solid  1px;
+    padding: 10px;
+    margin-left: 33%;
+    margin-top: 25px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.5);
+    background-color: aquamarine;
+}
+.contact-wrapper {
+    align-items: center;
+    border: rgb(114, 204, 61) solid 2px;
+    border-radius: 10px;
+    padding: 3px;
+    margin: 5px;
+    text-align: left;
+    
+}
+.contact {
+    display: inline block;
+}
+.number { 
+    float: right;
+}
+
+.contact-wrapper :hover {
+    background-color: rgba(85, 186, 211, 0.04);
+  }
+
+.gender { 
+    opacity: 0.42;
+}
+  input { 
+      background-color: rgb(181, 225, 228);
+      border:aquamarine solid 0px ;
+      border-radius: 10px;
+      margin-left: 10px;
+      height: 20px;
+  }
+  
