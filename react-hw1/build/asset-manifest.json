@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/HW_React_Cursor/react-hw1/static/css/main.bd3bfdbd.chunk.css",
+    "main.js": "/HW_React_Cursor/react-hw1/static/js/main.e36ce3c9.chunk.js",
+    "main.js.map": "/HW_React_Cursor/react-hw1/static/js/main.e36ce3c9.chunk.js.map",
+    "runtime-main.js": "/HW_React_Cursor/react-hw1/static/js/runtime-main.79082aa1.js",
+    "runtime-main.js.map": "/HW_React_Cursor/react-hw1/static/js/runtime-main.79082aa1.js.map",
+    "static/js/2.86586acc.chunk.js": "/HW_React_Cursor/react-hw1/static/js/2.86586acc.chunk.js",
+    "static/js/2.86586acc.chunk.js.map": "/HW_React_Cursor/react-hw1/static/js/2.86586acc.chunk.js.map",
+    "index.html": "/HW_React_Cursor/react-hw1/index.html",
+    "precache-manifest.d59896766b6597bed654f3aba4f08031.js": "/HW_React_Cursor/react-hw1/precache-manifest.d59896766b6597bed654f3aba4f08031.js",
+    "service-worker.js": "/HW_React_Cursor/react-hw1/service-worker.js",
+    "static/css/main.bd3bfdbd.chunk.css.map": "/HW_React_Cursor/react-hw1/static/css/main.bd3bfdbd.chunk.css.map",
+    "static/js/2.86586acc.chunk.js.LICENSE.txt": "/HW_React_Cursor/react-hw1/static/js/2.86586acc.chunk.js.LICENSE.txt",
+    "static/media/rey.jpg": "/HW_React_Cursor/react-hw1/static/media/rey.e9b8a892.jpg",
+    "static/media/skywalker.jpg": "/HW_React_Cursor/react-hw1/static/media/skywalker.5fe3ceb5.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.79082aa1.js",
+    "static/js/2.86586acc.chunk.js",
+    "static/css/main.bd3bfdbd.chunk.css",
+    "static/js/main.e36ce3c9.chunk.js"
+  ]
+}
