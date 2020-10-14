@@ -1,24 +1,30 @@
 {
   "files": {
-    "main.css": "/HW_React_Cursor/react-hw1/static/css/main.bd3bfdbd.chunk.css",
-    "main.js": "/HW_React_Cursor/react-hw1/static/js/main.e36ce3c9.chunk.js",
-    "main.js.map": "/HW_React_Cursor/react-hw1/static/js/main.e36ce3c9.chunk.js.map",
+    "main.css": "/HW_React_Cursor/react-hw1/static/css/main.73c74449.chunk.css",
+    "main.js": "/HW_React_Cursor/react-hw1/static/js/main.0117b855.chunk.js",
+    "main.js.map": "/HW_React_Cursor/react-hw1/static/js/main.0117b855.chunk.js.map",
     "runtime-main.js": "/HW_React_Cursor/react-hw1/static/js/runtime-main.79082aa1.js",
     "runtime-main.js.map": "/HW_React_Cursor/react-hw1/static/js/runtime-main.79082aa1.js.map",
-    "static/js/2.86586acc.chunk.js": "/HW_React_Cursor/react-hw1/static/js/2.86586acc.chunk.js",
-    "static/js/2.86586acc.chunk.js.map": "/HW_React_Cursor/react-hw1/static/js/2.86586acc.chunk.js.map",
+    "static/js/2.bfcd4730.chunk.js": "/HW_React_Cursor/react-hw1/static/js/2.bfcd4730.chunk.js",
+    "static/js/2.bfcd4730.chunk.js.map": "/HW_React_Cursor/react-hw1/static/js/2.bfcd4730.chunk.js.map",
     "index.html": "/HW_React_Cursor/react-hw1/index.html",
-    "precache-manifest.d59896766b6597bed654f3aba4f08031.js": "/HW_React_Cursor/react-hw1/precache-manifest.d59896766b6597bed654f3aba4f08031.js",
+    "precache-manifest.8bd2835f8746906ebfa8dc6c1289eea5.js": "/HW_React_Cursor/react-hw1/precache-manifest.8bd2835f8746906ebfa8dc6c1289eea5.js",
     "service-worker.js": "/HW_React_Cursor/react-hw1/service-worker.js",
-    "static/css/main.bd3bfdbd.chunk.css.map": "/HW_React_Cursor/react-hw1/static/css/main.bd3bfdbd.chunk.css.map",
-    "static/js/2.86586acc.chunk.js.LICENSE.txt": "/HW_React_Cursor/react-hw1/static/js/2.86586acc.chunk.js.LICENSE.txt",
+    "static/css/main.73c74449.chunk.css.map": "/HW_React_Cursor/react-hw1/static/css/main.73c74449.chunk.css.map",
+    "static/js/2.bfcd4730.chunk.js.LICENSE.txt": "/HW_React_Cursor/react-hw1/static/js/2.bfcd4730.chunk.js.LICENSE.txt",
+    "static/media/LS_post.jpg": "/HW_React_Cursor/react-hw1/static/media/LS_post.71852408.jpg",
+    "static/media/leia.jpg": "/HW_React_Cursor/react-hw1/static/media/leia.3352fdeb.jpg",
+    "static/media/leia_post.jpg": "/HW_React_Cursor/react-hw1/static/media/leia_post.28584aa0.jpg",
+    "static/media/ls.jpg": "/HW_React_Cursor/react-hw1/static/media/ls.55da1bf0.jpg",
+    "static/media/r.jpg": "/HW_React_Cursor/react-hw1/static/media/r.22de823b.jpg",
+    "static/media/r_post.jpg": "/HW_React_Cursor/react-hw1/static/media/r_post.40b50c9e.jpg",
     "static/media/rey.jpg": "/HW_React_Cursor/react-hw1/static/media/rey.e9b8a892.jpg",
     "static/media/skywalker.jpg": "/HW_React_Cursor/react-hw1/static/media/skywalker.5fe3ceb5.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.79082aa1.js",
-    "static/js/2.86586acc.chunk.js",
-    "static/css/main.bd3bfdbd.chunk.css",
-    "static/js/main.e36ce3c9.chunk.js"
+    "static/js/2.bfcd4730.chunk.js",
+    "static/css/main.73c74449.chunk.css",
+    "static/js/main.0117b855.chunk.js"
   ]
 }
