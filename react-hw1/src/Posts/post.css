@@ -1,14 +1,15 @@
-body { 
+
+.main__post{ 
+    display: flex;
     color: white;
     background-color: #091921; 
-    
+    justify-content: center;
 }
+
 .post{
-    margin: 50px ;
-    padding: 0;
+    padding: 20px 0px;
 }
 .post__wrapper{
-    
     display: flex;
     max-width: 605px;
     max-height:407px;
@@ -24,6 +25,7 @@ body {
 .post__body{
   display: flex;
   flex-direction: column;
+  padding-right: 15px;
 }
 .post__info{
     display: flex;
@@ -69,6 +71,7 @@ body {
 .post__nav img { 
     margin-top: 3px;
     opacity: 0.4;
+    
 }
 .post__nav a { 
     text-decoration: none;
