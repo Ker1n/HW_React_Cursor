@@ -26,7 +26,7 @@ const AddContact = (props) => {
             <div className="item__title">Gender</div>
             <select value={props.state.gender} onChange={props.changeGender} >
               <option value="none" hidden="select">select</option>
-              <option value= "1male">Male</option>
+              <option value= "_male">Male</option>
               <option value= "female">Female</option>
             </select>
             <div className="addContact__btn">

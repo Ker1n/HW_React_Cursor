@@ -1,12 +1,12 @@
 import React from 'react';
-import userIMg from "./user.png";
-import male from './male.png';
-import female from './female.png';
-import robot from './robo.png';
+import userIMg from "./img/user.png";
+import male from './img/male.png';
+import female from './img/female.png';
+import robot from './img/robo.png';
 
 
 const renderingGenderIcon = (gender) => {
-    if (gender === "1male") {
+    if (gender === "_male") {
       return male;
     } else if (gender === "female") {
       return female;

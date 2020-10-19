@@ -2,7 +2,7 @@ export const contacts = [{
     firstName: "Барней",
     lastName: "Стинсовський",
     phone: "+380956319521",
-    gender: "1male"
+    gender: "_male"
 }, {
     firstName: "Робін",
     lastName: "Щербатська",
@@ -22,12 +22,12 @@ export const contacts = [{
     firstName: "Маршен",
     lastName: "Еріксонян",
     phone: "+380739432123",
-    gender: "1male"
+    gender: "_male"
 }, {
     firstName: "Теодор",
     lastName: "Мотсбес",
     phone: "+380956319531",
-    gender: "1male"
+    gender: "_male"
 },{
     firstName: "Ольга",
     lastName: "Романівська",
@@ -37,5 +37,5 @@ export const contacts = [{
     firstName: "Марк",
     lastName: "Островський",
     phone: "+380956458791",
-    gender: "1male"
+    gender: "_male"
 }];
