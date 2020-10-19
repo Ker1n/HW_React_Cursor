@@ -1,13 +1,15 @@
 import React from 'react';
-import Contacts from './components/Contacts/Contacts';
+import ContactsBook from './components/contactBook/contactBook'
 
-class App extends React.Component { 
-    render () {
-      return (
-        <Contacts / > 
-      ) 
-    }
+
+
+
+function App() {
+  return (
+    <div className="App">
+      <ContactsBook />
+    </div>
+  );
 }
-
 
 export default App;
