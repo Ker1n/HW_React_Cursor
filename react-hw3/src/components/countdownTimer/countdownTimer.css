@@ -1,0 +1,51 @@
+.countdownTimer-wrapper{
+    display: flex;
+    flex-direction: column;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+.countdownTimer-container{
+    font-size: 16px;
+    /* background-color: aqua;
+    border: 1px solid black; */
+}
+
+.countdownTimer-head{ 
+    display: flex;
+
+}
+
+.timer-title{
+    margin: 0px 20px 0px 7px;
+    margin-bottom: 20px;
+    font-size: 24px;
+    color: #0074d9;
+    min-width: 220px;
+}
+.timer-line {
+    margin-top: 5px;
+    position: relative;
+    left: -302px;
+    top: 2px;
+    background: #3f51b5de;
+    height: 20px;
+    border-radius:  8px;
+    
+}
+.line-wrapper { 
+    margin-top: 5px;
+    /* width: 302px; */
+    height: 22px;
+    border: 1px solid grey;
+    border-radius:  10px;
+    box-shadow: 0px 2px 2px #abaeb1;
+}
+
+.btn-row { 
+    display: flex;
+}
+
+.btn-row button{ 
+    margin: 0px 10px;
+}
+
