@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.32029b55.chunk.css",
+    "main.js": "/static/js/main.45bc7628.chunk.js",
+    "main.js.map": "/static/js/main.45bc7628.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.c217baae.js",
+    "runtime-main.js.map": "/static/js/runtime-main.c217baae.js.map",
+    "static/js/2.ec90c062.chunk.js": "/static/js/2.ec90c062.chunk.js",
+    "static/js/2.ec90c062.chunk.js.map": "/static/js/2.ec90c062.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.3eabd141e67a0409d23c055ec8f4352e.js": "/precache-manifest.3eabd141e67a0409d23c055ec8f4352e.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.32029b55.chunk.css.map": "/static/css/main.32029b55.chunk.css.map",
+    "static/js/2.ec90c062.chunk.js.LICENSE.txt": "/static/js/2.ec90c062.chunk.js.LICENSE.txt",
+    "static/media/EntrancePage.css": "/static/media/forest.3759da82.jpg",
+    "static/media/help.png": "/static/media/help.7dea2ccf.png",
+    "static/media/padlock.svg": "/static/media/padlock.d964e0b3.svg",
+    "static/media/succes.jpg": "/static/media/succes.58b149e3.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c217baae.js",
+    "static/js/2.ec90c062.chunk.js",
+    "static/css/main.32029b55.chunk.css",
+    "static/js/main.45bc7628.chunk.js"
+  ]
+}
