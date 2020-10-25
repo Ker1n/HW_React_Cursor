@@ -1,0 +1,169 @@
+.EntrancePage { 
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 100vh;
+    background: url(./forest.jpg) 50% 50% no-repeat;
+    background-size: cover;
+    display: table;
+}
+
+#lockImg { 
+    width: 35px;
+    height: 35px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: lighter;
+    color: white;
+    font-size: 50px;
+    text-align: center;
+    opacity: 0.7;
+    user-select: none;
+}
+
+.signIn-body { 
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-50%);
+    border: 1px solid rgba(255, 255, 255, 0.3);
+    border-radius: 5px;
+    padding: 2em;
+    text-align: center;
+}
+
+
+
+input { 
+    display: block;
+    width: 320px;
+    height: 50px;
+    background: rgba(0, 0, 0, 0.3);
+    outline: none;
+    border: 1px solid rgba(0, 0, 0 , 0.5);
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: lighter;
+    font-size: 14px;
+    margin-bottom: 10px;
+    padding-left: 10px;
+    border-radius: 5px;
+    color: rgba(224, 224, 224, 0.966);
+    margin: 20px 0px;
+    margin-left: 15px;
+}
+input::placeholder { 
+    color: rgba(224, 224, 224, 0.644);
+}
+
+input:focus { 
+    border: 1px solid rgba(255, 255, 255, 0.3);
+}
+
+
+.remind { 
+    display: flex;
+    justify-content: flex-start;
+    flex-direction: row;
+    max-width: 300px;
+    margin: 10px 0px;
+    margin-left: 20px;
+}
+
+.remind .spam { 
+    width: 30px;
+    height: 30px;
+    padding: 0;
+    margin: 0;
+
+}
+.remind .remember{ 
+    width: 20px;
+    height: 20px;
+    padding: 0;
+    margin: 0;
+}
+
+
+
+.checkBox-text { 
+    margin-left: 10px;
+    display: flex;
+    justify-content: flex-start;
+    text-align: start;
+    color: rgba(224, 224, 224, 0.548);
+    user-select: none;
+}
+
+
+h3 { color: rgba(224, 224, 224, 0.884);user-select: none;}
+
+button { 
+    width: 332px;
+    height: 50px;
+    font-size: 16px;
+    background: rgba(255, 255, 255, 0.3);
+    font-weight: lighter;
+    color: white;
+    border: 0px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.entrancePage-nav { 
+   margin: 10px 0px;
+}
+
+a{ 
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+    color: rgba(224, 224, 224, 0.884);
+}
+.entrancePage-nav span:first-child {
+     margin-right: 20px;
+}
+
+a:hover { 
+    color: rgba(224, 224, 224, 0.26);
+}
+button:hover { 
+    color: rgba(224, 224, 224, 0.26);
+    text-shadow: 1px 1px 2px black, 0 0 1em rgba(224, 224, 224, 0.26);
+}
+
+#help-img{ 
+    display: inline-block;
+    position: relative;
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    background-color: rgba(224, 224, 224, 0.644);
+    top: 0px;
+    left: 18px;
+    opacity: 0.7;
+    cursor: help;
+}
+
+.password-help {
+    display: inline-block;
+    position: relative;
+}
+.password-help:hover::after {
+    content: attr(data-title); 
+    position: absolute; 
+    left: -300px; top: 50px;
+    z-index: 1; 
+    background: rgba(0, 0, 0, 0.3); 
+    font-family: Arial, sans-serif; 
+    font-size: 11px; 
+    padding: 5px 10px; 
+    border: 1px solid #333;
+    color: rgba(224, 224, 224, 0.877);
+    height:25px;
+    width: 250px;
+   }
+   
+.signIn-password{ 
+    margin-top: -20px;
+    display: flex;
+    align-items: center;
+    margin-bottom: 40px;
+}
