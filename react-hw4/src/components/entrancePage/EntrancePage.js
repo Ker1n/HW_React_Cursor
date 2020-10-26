@@ -15,7 +15,7 @@ const EntrancePage = () => {
         <div className="EntrancePage"> 
         <BrowserRouter> 
         <Switch>
-            <Route path = "/"  exact  render = {() => <SignIn /> } />
+            <Route path = "/Cursor-React-hw-4/"  exact  render = {() => <SignIn /> } />
             <Route path = "/signUp" exact  render = {() => <SignUp /> } />
             <Route path = "/success" exact  render = {() => <SuccessPage /> } />
             <Route   component= {() => <UndefinedPage />} />

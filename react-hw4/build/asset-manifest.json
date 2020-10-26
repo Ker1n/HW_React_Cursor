@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Cursor-React-hw-4/static/css/main.12fb3637.chunk.css",
+    "main.js": "/Cursor-React-hw-4/static/js/main.c87880d4.chunk.js",
+    "main.js.map": "/Cursor-React-hw-4/static/js/main.c87880d4.chunk.js.map",
+    "runtime-main.js": "/Cursor-React-hw-4/static/js/runtime-main.130eaede.js",
+    "runtime-main.js.map": "/Cursor-React-hw-4/static/js/runtime-main.130eaede.js.map",
+    "static/js/2.ec90c062.chunk.js": "/Cursor-React-hw-4/static/js/2.ec90c062.chunk.js",
+    "static/js/2.ec90c062.chunk.js.map": "/Cursor-React-hw-4/static/js/2.ec90c062.chunk.js.map",
+    "index.html": "/Cursor-React-hw-4/index.html",
+    "precache-manifest.ef6160b6f118aebc5ead365bd80c097b.js": "/Cursor-React-hw-4/precache-manifest.ef6160b6f118aebc5ead365bd80c097b.js",
+    "service-worker.js": "/Cursor-React-hw-4/service-worker.js",
+    "static/css/main.12fb3637.chunk.css.map": "/Cursor-React-hw-4/static/css/main.12fb3637.chunk.css.map",
+    "static/js/2.ec90c062.chunk.js.LICENSE.txt": "/Cursor-React-hw-4/static/js/2.ec90c062.chunk.js.LICENSE.txt",
+    "static/media/EntrancePage.css": "/Cursor-React-hw-4/static/media/forest.3759da82.jpg",
+    "static/media/help.png": "/Cursor-React-hw-4/static/media/help.7dea2ccf.png",
+    "static/media/padlock.svg": "/Cursor-React-hw-4/static/media/padlock.d964e0b3.svg",
+    "static/media/succes.jpg": "/Cursor-React-hw-4/static/media/succes.58b149e3.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.130eaede.js",
+    "static/js/2.ec90c062.chunk.js",
+    "static/css/main.12fb3637.chunk.css",
+    "static/js/main.c87880d4.chunk.js"
+  ]
+}

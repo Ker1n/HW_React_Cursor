@@ -92,7 +92,7 @@ class SignUp extends Component {
                     <input type="text" placeholder="First name"   value = {this.state.firstName} onChange = {this.handleChange.bind(this, "firstName")}/>
                     <input type="text" placeholder="Last name"    value = {this.state.lastName}  onChange = {this.handleChange.bind(this, "lastName")} />
                     <input type="text" placeholder="Email"        value = {this.state.email}     onChange = {this.handleChange.bind(this, "email")}    />
-                    <div className="signIn-password" id="pass" data-title="Софийский собор">
+                    <div className="signIn-password" id="pass">
                     <input type="password" placeholder="Password" value = {this.state.password}  onChange = {this.handleChange.bind(this, "password")}  />  
                     <div className = "password-help" data-title="Password must have at least 8 characters, number, uppercase and lowercase letter">
                     <img src={Help} alt="help" id="help-img" /></div>
@@ -101,9 +101,8 @@ class SignUp extends Component {
                     <input type="checkbox" name="spam" className="spam" id='mailing' onClick = {this.checkMailing} />
                     <div className = "checkBox-text">I want to receive inspiration, marketing promotions and updates via email.</div>
                     </div>
-                    {/* <button onClick = {()=> { console.log(this.state.emailValid)}}></button> */}
-                    <button className = "btn" type="button" onClick={this.completionOfSignUp} ><NavLink to='/' state= {this.props.state}>Sign Up</NavLink></button>
-                    <div className = "entrancePage-nav"><span><NavLink to="reset">Forgot password?</NavLink></span><span><NavLink to='/'>Do have an account? Sign In</NavLink></span></div>
+                    <button className = "btn" type="button" onClick={this.completionOfSignUp} ><NavLink to='/Cursor-React-hw-4/' >Sign Up</NavLink></button>
+                    <div className = "entrancePage-nav"><span><NavLink to="reset">Forgot password?</NavLink></span><span><NavLink to='/Cursor-React-hw-4/'>Do have an account? Sign In</NavLink></span></div>
             </div>
         </div>
         )
