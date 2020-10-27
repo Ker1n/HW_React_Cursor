@@ -39,7 +39,7 @@ function App() {
           <Route path={path} exact={exact} component={component} />
         ))}
       </div>
-      <Route path = "/" exact render={() => <Redirect to="/home" />} />
+      <Route path = "/Cursor-React-hw-5/" exact render={() => <Redirect to="/home" />} />
     </BrowserRouter> 
   );
 }
