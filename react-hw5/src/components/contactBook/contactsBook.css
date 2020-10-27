@@ -1,0 +1,119 @@
+
+.contactsBook__wrapper {
+    min-height: 100%;
+	overflow: hidden;
+	display: flex;
+    flex-direction: column;
+    color: #091921; 
+   
+}
+
+
+.container{
+    max-width: 600px;
+    margin: 0 auto;
+}
+.contactsBook__header{margin-top: 40px;}
+
+/*Header input*/
+.header__row{ 
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 5px;
+   
+}
+
+/* contact */
+.contactsBook__body{
+    border: solid 1px #6e6c6ce5;
+    box-shadow: 0px 5px 5px rgba(0,0,0,0.5);
+}
+.contact__body{
+    display: flex;
+    border-bottom:  1px solid #6e6c6c8f;
+    padding: 10px 0px;
+    color: #6e6c6cf1;
+}
+
+.contactsBook__body a {text-decoration: none;}
+
+.contact__body:hover {
+    box-shadow: 0 0 10px rgba(0,0,0,0.5)
+}
+
+.contact__avatar img{
+    height: 22px;
+    width: 30px;
+    border-radius: 50%;
+    margin: 0px 15px;
+
+}
+
+.contact__fullName{
+    display: flex;
+    justify-content: flex-start;
+    width: 200px;
+    margin-right: 70px;
+    font-size: 200;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top: 5px;
+   
+}
+.contact__fullName span { 
+    padding-left: 10px;
+    color: #6e6c6cf1;
+}
+.contact__number{
+    padding-top: 5px;
+    margin-right: 50px;
+    width: 140px;
+    font-size: 15px;
+    color: #6e6c6cf1;
+}
+.contact__gender{
+    display: flex;
+    text-align: end;
+    padding-top: 7px;
+}
+.contact__gender img {
+    padding: 0px 15px;
+    width: 15px;
+    height: 15px;
+}
+
+/*add contact*/
+.addContact__row{ 
+    margin-top: 15px;
+    display: flex;
+    justify-content: center;
+    min-width: 565px;
+}
+
+select{
+    height: 21.2px;
+}
+
+.addContact__btn { 
+    display: flex;
+    justify-content: flex-end;
+}
+.addContact__btn button { 
+    position: relative;
+    top: -20px;
+    left: 0;
+}
+
+.contactsBook_addContact { 
+    margin-top: 5px;
+}
+
+.row__left{
+    margin-right: 10px;
+}
+
+
+.addContact__btn button:hover {
+    color: rgb(63, 83, 196);
+    box-shadow: 0px 2px 2px rgba(25, 48, 182, 0.5);
+}
+

@@ -1,0 +1,18 @@
+.FullScreenImage-wrapper { 
+    background-color: rgba(0, 0, 0, 0.82);
+    width: 100vw;
+    height: 100vh;
+    position: fixed;
+    top: 0;
+    left: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    z-index: 1000;
+    cursor: pointer;
+}
+
+.fullscreen-Image { 
+    box-shadow:  1px 1px 8px #2e2e2e;
+
+}

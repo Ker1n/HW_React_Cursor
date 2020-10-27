@@ -1,0 +1,23 @@
+.headerWrapper { 
+    display: flex;
+    height: 90px;
+    background-color: #091921;
+    
+    align-items: center;
+    justify-content: flex-start;
+    border-bottom: 1px solid rgba(151, 150, 150, 0.562);
+}
+.headerItem { 
+    font-size: 18px;
+    text-transform: uppercase;
+    color: #00d3f8;
+    margin-right: 50px;
+    font-weight: bold;
+    cursor: pointer;
+    text-decoration: none;
+    margin-left: 40px;
+}
+
+a.headerItem.active { 
+    border-bottom: 2px solid #00d3f8;
+}

@@ -1,0 +1,78 @@
+.contactInfo-wrapper { 
+    background-color: rgba(0, 0, 0, 0.82);
+    width: 100vw;
+    height: 100vh;
+    position: fixed;
+    top: 0;
+    left: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    z-index: 1000;
+    cursor: pointer;
+    font-family: 'Roboto', sans-serif;
+}
+.contactInfo__container { 
+    width: 400px;
+    height: 300px;
+    background-color: lavender;
+}
+.contactInfo__avatar { 
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    box-shadow: 0px 2px 5px rgba(0,0,0,0.5);
+    margin: 28px 10px 0px 10px;
+}
+
+
+
+.contactInfo__body{ 
+    display: flex;
+}
+.contactInfo__row{ 
+    display: flex;
+    justify-content: flex-start;
+    flex-direction: column;
+}
+
+.contactInfo__container span {
+    color: rgba(150, 146, 146, 0.884);
+    margin-right: 5px;
+    border-bottom: 1px solid  rgba(150, 146, 146, 0.884);
+ }
+
+.contactInfo__title h2{ 
+    padding: 0;
+    align-self: center;
+    margin: 10px 0px 5px 43px;
+    font-size: 20px;
+    color: #6e6c6ce7;
+}
+
+
+.containerInfo__addInfo{ 
+    display: flex;
+    justify-content: flex-start;
+    flex-direction: column;
+    margin: 20px;
+}
+
+.addInfo__title{ 
+    align-self: center;
+    padding: 0;
+    align-self: center;
+    font-size: 20px;
+    color: #6e6c6ce7;
+}
+.addInfo__email{ 
+    margin: 5px 0px;
+}
+.addInfo_bDay{ 
+    margin: 5px 0px;
+}
+
+.addInfo__notification{ 
+    margin: 5px 0px;
+    font-size: 14px;
+}
